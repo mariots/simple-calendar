@@ -4,7 +4,7 @@ import { FormsModule } from '@angular/forms';
 import { RouterModule } from '@angular/router';
 
 import { appRoutes } from './routes/appRoutes';
-import { MonthCalendarModule } from 'simple-calendar';
+import { MonthCalendarModule } from '../../projects/simple-calendar/src/lib/month-calendar.module';
 import { AppComponent } from './app.component';
 import { ResizingComponent } from './examples/resizing/resizing.component';
 import { StylingComponent } from './examples/styling/styling.component';

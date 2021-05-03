@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { GrowMode } from 'simple-calendar/public_api';
+import { GrowMode } from '../../../../projects/simple-calendar/src/public_api';
 
 /**
  * Shows the resizing capabilites of
